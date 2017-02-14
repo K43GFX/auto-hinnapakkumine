@@ -1,0 +1,14 @@
+     .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+      background-color: #F05F40;
+     }
+     a {
+      color: #F05F40;
+     }
+     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+      background-color: #F05F40 !important;
+     }
+     .btn-primary {
+      background-image: linear-gradient(to bottom,#F05F40 0,#F05F40 100%) !important;
+      border-color: #F05F40 !important;
+      background-color: #F05F40 !important;
+     }    
